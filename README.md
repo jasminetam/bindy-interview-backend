@@ -1,10 +1,10 @@
-# Getting Started with the project
+# Instructions
 
 This project was built by .NET 5 using C#
 
 Please install .NET 5 latest version on your computer and C# on the code editor before open the project.
 
-## Available Scripts
+## Guideline to get Started
 
 After you have downloaded the project, 
 
