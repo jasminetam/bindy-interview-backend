@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\virgo\\Documents\\developer\\dotnet-interview\\Bindy\\Bindy.csproj": {}
+    "C:\\Users\\virgo\\Documents\\developer\\Bindy\\Bindy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\virgo\\Documents\\developer\\dotnet-interview\\Bindy\\Bindy.csproj": {
+    "C:\\Users\\virgo\\Documents\\developer\\Bindy\\Bindy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\virgo\\Documents\\developer\\dotnet-interview\\Bindy\\Bindy.csproj",
+        "projectUniqueName": "C:\\Users\\virgo\\Documents\\developer\\Bindy\\Bindy.csproj",
         "projectName": "Bindy",
-        "projectPath": "C:\\Users\\virgo\\Documents\\developer\\dotnet-interview\\Bindy\\Bindy.csproj",
+        "projectPath": "C:\\Users\\virgo\\Documents\\developer\\Bindy\\Bindy.csproj",
         "packagesPath": "C:\\Users\\virgo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\virgo\\Documents\\developer\\dotnet-interview\\Bindy\\obj\\",
+        "outputPath": "C:\\Users\\virgo\\Documents\\developer\\Bindy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\virgo\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tESP4pp0wCyFfBTDGdyQJxKhPNDNLRm08gIlHgxkrhfo2Fi63d+gC/oVqwU4H3i/mFyrz8Hi8TPXtPA6wiTxBw==",
+  "dgSpecHash": "0EjSeVh4FnYdm0Qs4pQGMEe9FLhex5vJdK15feejif5PIiA5pT5/653AO9sX8beSOjJ4JfxmJprewmpxXnTIAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\virgo\\Documents\\developer\\dotnet-interview\\Bindy\\Bindy.csproj",
+  "projectFilePath": "C:\\Users\\virgo\\Documents\\developer\\Bindy\\Bindy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\virgo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\virgo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
